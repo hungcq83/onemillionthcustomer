@@ -1,0 +1,11 @@
+{
+  "name": "customerprize",
+  "version": "1.0.0",
+  "description": "1 millionth customer prize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hung Chu",
+  "license": "ISC"
+}
